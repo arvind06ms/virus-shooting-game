@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\zombie_waves_game.dir/objects.a
-C:\Users\arvin\AppData\Local\Microsoft\WinGet\Packages\BrechtSanders.WinLibs.MCF.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\mingw64\bin\ar.exe qc CMakeFiles\zombie_waves_game.dir/objects.a @CMakeFiles\zombie_waves_game.dir\objects1.rsp
-C:\Users\arvin\AppData\Local\Microsoft\WinGet\Packages\BrechtSanders.WinLibs.MCF.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\mingw64\bin\g++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\zombie_waves_game.dir/objects.a -Wl,--no-whole-archive -o zombie_waves_game.exe -Wl,--out-implib,libzombie_waves_game.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\zombie_waves_game.dir\linkLibs.rsp

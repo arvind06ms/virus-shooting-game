@@ -1,6 +1,6 @@
-﻿.venv/
-venv/
-__pycache__/
-*.pyc
-.env
-node_modules/
+﻿build/
+*.exe
+*.o
+*.obj
+*.a
+.vscode/
